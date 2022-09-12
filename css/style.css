@@ -81,6 +81,8 @@ body {
   padding: 104px 133px 168px 133px;
   background-color: #f8f8f8;
   margin: 0 auto;
+  align-items: center;
+  justify-content: center;
 }
 
 .header-title {
